@@ -1,9 +1,9 @@
 # Site settings
 
-title: "Euroboard"
+title: "I know we hate Eurovision but..."
 subtitle: "Eurovision 2021"
 
-description: "A digital scoreboard that you can use at home as you watch the Eurovision Song Contest 2021."
+description: "Let's make out Eurovision Song Contest 2021 party even more exciting!"
 
 baseurl: "/euroboard" # the subpath of your site, e.g. /blog
 url: "https://johnpe.art"
